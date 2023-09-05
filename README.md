@@ -1,0 +1,2 @@
+# mcpureredirect
+test
